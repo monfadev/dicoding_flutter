@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Pampalassa Resto",
+        "urlToImageResto": "https://www.bandar-djakarta.com/wp-content/uploads/2017/10/bd-logo-s.png",
+        "description": "pampalassa berasal dari bahasa Philipina yang memiliki arti sambal atau cabe, itu sebabnya mengapa cabe merah menjadi icon Resto pampalassa.",
+        "address": "Cafe Walk Lot 6C Grand Wisata, Lambangsari, Tambun Selatan, Lambangsari, Kec. Tambun Sel., Bekasi, Jawa Barat 17510",
+        "phone": "(021) 1500114",
+        "rating": "4,2",
+        "ulasan": "1.873",
+        "menu": [
+            {
+                "titleImage": "Bihun Goreng",
+                "hargaMenu": "Rp 15.000",
+                "urlToImage": "https://www.bandar-djakarta.com/wp-content/uploads/2018/01/Bihun-Goreng-Seafood.jpg"
+            },
+            {
+                "titleImage": "Mie Goreng",
+                "hargaMenu": "Rp 15.000",
+                "urlToImage": "https://www.bandar-djakarta.com/wp-content/uploads/2018/01/Mie-Goreng-Seafood-1.jpg"
+            },
+            {
+                "titleImage": "Nasi Goreng",
+                "hargaMenu": "Rp 15.000",
+                "urlToImage": "https://www.bandar-djakarta.com/wp-content/uploads/2018/01/Nasi-Goreng-Seafood.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Bebek Kaleyo",
+        "urlToImageResto": "https://www.bandar-djakarta.com/wp-content/uploads/2017/10/bd-logo-s.png",
+        "description": "Dari Budaya Jawa untuk seluruh Indonesia, Kaleyo merupakan kependekan dari Bahasa Jawa, “kalih” yang artinya dua, dan “ayo” yang berarti ajakan.",
+        "address": "Kawasan Kuliner Cafewalk Jalan Grand Wisata Tambun, Lambangsari, Kec. Tambun Sel., Bekasi, Jawa Barat 17510",
+        "phone": "(021) 42875000",
+        "rating": "4,1",
+        "ulasan": "5.178",
+        "menu": [
+            {
+                "titleImage": "Bihun Goreng",
+                "hargaMenu": "Rp 15.000",
+                "urlToImage": "https://www.bandar-djakarta.com/wp-content/uploads/2018/01/Bihun-Goreng-Seafood.jpg"
+            },
+            {
+                "titleImage": "Mie Goreng",
+                "hargaMenu": "Rp 15.000",
+                "urlToImage": "https://www.bandar-djakarta.com/wp-content/uploads/2018/01/Mie-Goreng-Seafood-1.jpg"
+            },
+            {
+                "titleImage": "Nasi Goreng",
+                "hargaMenu": "Rp 15.000",
+                "urlToImage": "https://www.bandar-djakarta.com/wp-content/uploads/2018/01/Nasi-Goreng-Seafood.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Bandar Djakarta Bekasi",
+        "urlToImageResto": "https://www.bandar-djakarta.com/wp-content/uploads/2017/10/bd-logo-s.png",
+        "description": "Bandar Djakarta Restaurant is a seafood restaurant with the concept of fish market, providing different varieties of seafood with assured quality due its live and fresh nature.",
+        "address": "Jalan Bulevar Ahmad Yani Blok M, RT.007/RW.003, Marga Mulya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17143",
+        "phone": "(021) 22101888",
+        "rating": "4,5",
+        "ulasan": "9.661",
+        "menu": [
+            {
+                "titleImage": "Bihun Goreng",
+                "hargaMenu": "Rp 15.000",
+                "urlToImage": "https://www.bandar-djakarta.com/wp-content/uploads/2018/01/Bihun-Goreng-Seafood.jpg"
+            },
+            {
+                "titleImage": "Mie Goreng",
+                "hargaMenu": "Rp 15.000",
+                "urlToImage": "https://www.bandar-djakarta.com/wp-content/uploads/2018/01/Mie-Goreng-Seafood-1.jpg"
+            },
+            {
+                "titleImage": "Nasi Goreng",
+                "hargaMenu": "Rp 15.000",
+                "urlToImage": "https://www.bandar-djakarta.com/wp-content/uploads/2018/01/Nasi-Goreng-Seafood.jpg"
+            }
+        ]
+    }
+]
